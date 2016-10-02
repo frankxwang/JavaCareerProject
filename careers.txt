@@ -1,0 +1,15 @@
+math,movies,pizza,Programmer
+math,movies,burrito,Movie Analyzer
+math,sports,pizza,Sports Critic
+math,sports,burrito,Sports Coach
+science,movies,pizza,Mythbusters
+science,movies,burrito,Scientist
+science,sports,pizza,Sports Analyzer
+science,sports,burrito,Athlete
+english,movies,pizza,Movie Commentator
+english,movies,burrito,Actor
+english,sports,pizza,Sports Commentator
+english,sports,burrito,Sports Referee
+//subjects math, science, english
+	//hobby movies sports
+	//food pizza burrito
