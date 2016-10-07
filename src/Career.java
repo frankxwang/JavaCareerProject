@@ -2,7 +2,7 @@ import java.io.*;
 public class Career {
 	//subjects math, science, english
 	//hobby movies sports
-	//food pizza burrito
+	//food pizza burrito 
 	String[][] careers = new String[12][4];
 	String[] name = new String[2];
 	int age;
